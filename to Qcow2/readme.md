@@ -6,3 +6,6 @@ qcow=my-backup.qcow2
 
 ewfexport -l log.txt -t $qcow $image
 ```
+
+# Discuss
+https://www.forensicfocus.com/forums/general/ewf-file-e01-write-back-to-disk-how/#post-6573275
